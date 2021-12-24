@@ -1,7 +1,6 @@
 ### Olá! Eu sou Cadu Araujo, estudante de desevolvimento web fullstack 👨‍💻.
 
-![Cadu GitHub stats](https://github-readme-stats.vercel.app/api?username=Caduaaraujoo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caduaaraujoo&layout=compact&theme=radical)
+![Cadu GitHub stats](https://github-readme-stats.vercel.app/api?username=Caduaaraujoo&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caduaaraujoo&layout=compact&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
