@@ -1,4 +1,4 @@
-### Olá! Eu sou Cadu Araujo, desenvolvedor web fullstack 👨‍💻.
+### Olá! Eu sou o Cadu Araujo, desenvolvedor web fullstack 👨‍💻.
 
 <div align="center">
   <a href="https://github.com/Caduaaraujoo">
